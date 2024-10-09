@@ -20,6 +20,7 @@ This project is a simple RESTful API that allows for basic CRUD (Create, Read, U
   - Create a PostgreSQL database:
     - **psql -U postgres**
     - **CREATE DATABASE courseapi;**
+      
 - **Configuration**:
   - **Clone this repository**
     - git clone https://github.com/yourusername/course-api.git
