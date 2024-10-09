@@ -19,8 +19,8 @@ This project is a simple RESTful API that allows for basic CRUD (Create, Read, U
 - Install PostgreSQL: PostgreSQL
 - Ensure PostgreSQL service is running on default port 5432
 - Create a PostgreSQL database:
-        **  psql -U postgres
-      CREATE DATABASE courseapi;**
+  **- psql -U postgres
+  - CREATE DATABASE courseapi;**
   
 # Configuration:
 - **Clone this repository**
