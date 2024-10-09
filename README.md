@@ -23,12 +23,12 @@ This project is a simple RESTful API that allows for basic CRUD (Create, Read, U
       CREATE DATABASE courseapi;**
   
 # Configuration:
-  **Clone this repository**
+- **Clone this repository**
   - git clone https://github.com/yourusername/course-api.git
   - cd course-api
-  **Install dependencies**
+- **Install dependencies**
     npm install
-  **Create a new .env file with following variables:**
+- **Create a new .env file with following variables:**
     - DB_NAME=courseapi
     - DB_USER=postgres
     - DB_PASSWORD=yourpassword
