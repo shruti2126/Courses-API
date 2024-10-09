@@ -1,4 +1,4 @@
-##Course Management API
+# Course Management API
 
 This project is a simple RESTful API that allows for basic CRUD (Create, Read, Update, Delete) operations on a list of courses. The API is built with Node.js and Sequelize ORM and connects to a PostgreSQL database.
 
