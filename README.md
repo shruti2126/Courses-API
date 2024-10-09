@@ -15,21 +15,23 @@ This project is a simple RESTful API that allows for basic CRUD (Create, Read, U
 # Setup Instructions
 
 # Prerequisites:
-  Install Node.js: Node.js
-  Install PostgreSQL: PostgreSQL
-  Ensure PostgreSQL service is running on default port 5432
-  Create a PostgreSQL database: psql -U postgres
-                                CREATE DATABASE courseapi;
+- Install Node.js: Node.js
+- Install PostgreSQL: PostgreSQL
+- Ensure PostgreSQL service is running on default port 5432
+- Create a PostgreSQL database:
+        **  psql -U postgres
+      CREATE DATABASE courseapi;**
+  
 # Configuration:
   **Clone this repository**
-    git clone https://github.com/yourusername/course-api.git
-    cd course-api
+  - git clone https://github.com/yourusername/course-api.git
+  - cd course-api
   **Install dependencies**
     npm install
   **Create a new .env file with following variables:**
-    DB_NAME=courseapi
-    DB_USER=postgres
-    DB_PASSWORD=yourpassword
+    - DB_NAME=courseapi
+    - DB_USER=postgres
+    - DB_PASSWORD=yourpassword
 
 # Running the API
 The server will start on http://localhost:3000.
